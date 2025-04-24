@@ -229,106 +229,106 @@
     ],
     [
         "BasicPlatform",
-        "Basic Platform"
+        "基础平台"
     ],
     [
         "PlasticBlock",
-        "Plastic Block"
+        "塑料块"
     ],
     [
         "GlassBlock",
-        "Glass Block"
+        "草块"
     ],
     [
         "PaintWhite",
-        "Paint White"
+        "白色油漆"
     ],
     [
         "PaintGray",
-        "Paint Gray"
+        "灰色油漆"
     ],
     [
         "PaintBlack",
-        "Paint Black"
+        "黑色油漆"
     ],
     [
         "PaintGreen",
-        "Paint Green"
+        "绿色油漆"
     ],
     [
         "PaintRed",
-        "Paint Red"
+        "红色油漆"
     ],
     [
         "PaintBlue",
-        "Paint Blue"
+        "蓝色油漆"
     ],
     [
         "PaintCopper",
-        "Paint Copper"
+        "铜油漆"
     ],
     [
         "PaintSteel",
-        "Paint Steel"
+        "钢油漆"
     ],
     [
         "PaintStainlessSteel",
-        "Paint Stainless Steel"
+        "不锈钢油漆"
     ],
     [
         "PaintTitanium",
-        "Paint Titanium"
+        "钛油漆"
     ],
     [
         "PaintHardMetal",
-        "Paint Hard Metal"
+        "硬质油漆"
     ],
     [
         "PaintGold",
-        "Paint Gold"
+        "金油漆"
     ],
     [
         "PaintYellow",
-        "Paint Yellow"
+        "黄色油漆"
     ],
     [
         "PaintMagenta",
-        "Paint Magenta"
+        "洋红色油漆"
     ],
     [
         "PaintCyan",
-        "Paint Cyan"
+        "青色油漆"
     ],
     [
         "ConcreteRamp",
-        "Concrete Ramp"
+        "水泥坡道"
     ],
     [
         "ConcreteRamp2",
-        "Concrete Ramp2"
+        "水泥坡道2"
     ],
     [
         "ConcreteRamp3",
-        "Concrete Ramp3"
+        "水泥坡道3"
     ],
     [
         "ConcreteBeam",
-        "Concrete Beam"
+        "水泥梁"
     ],
     [
         "ConcreteBeam2",
-        "Concrete Beam2"
+        "水泥梁2"
     ],
     [
         "HighPressureSteampack",
-        "High Pressure Steampack"
+        "高压蒸汽背包"
     ],
     [
         "HighCapacitySteampack",
-        "High Capacity Steampack"
+        "高储量蒸汽背包"
     ],
     [
         "AdvancedSteampack",
-        "Advanced Steampack"
+        "先进蒸汽背包"
     ]
 ]
