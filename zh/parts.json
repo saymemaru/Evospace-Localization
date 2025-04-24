@@ -805,235 +805,235 @@
     ],
     [
         "UltimateCatalyst",
-        "Ultimate Catalyst Cell"
+        "终极催化剂单元"
     ],
     [
         "MothershipPing",
-        "Mothership Ping"
+        "母舰探测器"
     ],
     [
         "PaintTool",
-        "Paint Tool"
+        "油漆工具"
     ],
     [
         "Capacity",
-        "Capacity"
+        "容量"
     ],
     [
         "InputError",
-        "Input Error"
+        "输入错误"
     ],
     [
         "OutputError",
-        "Output Error"
+        "输出错误"
     ],
     [
         "Progress",
-        "Progress"
+        "进展"
     ],
     [
         "SwitchedOn",
-        "Switched On"
+        "已开启"
     ],
     [
         "Ethanol",
-        "Ethanol"
+        "乙醇"
     ],
     [
         "Methanol",
-        "Methanol"
+        "甲醇"
     ],
     [
         "FermentedBiomass",
-        "Fermented Biomass"
+        "发酵生物质"
     ],
     [
         "Ammonia",
-        "Ammonia"
+        "氨"
     ],
     [
         "ExtraHeavyOil",
-        "Extra Heavy Oil"
+        "额外重油"
     ],
     [
         "SodiumHydroxideBlock",
-        "Sodium Hydroxide Block"
+        "氢氧化钠块"
     ],
     [
         "SodiumHydroxideDust",
-        "Sodium Hydroxide Dust"
+        "氢氧化钠粉"
     ],
     [
         "NitricAcid",
-        "Nitric Acid"
+        "硝酸"
     ],
     [
         "Ash",
-        "Ash"
+        "灰烬"
     ],
     [
         "Rapeseed",
-        "Rapeseed"
+        "菜籽"
     ],
     [
         "RapeseedOil",
-        "Rapeseed Oil"
+        "菜籽油"
     ],
     [
         "Diesel",
-        "Diesel"
+        "柴油"
     ],
     [
         "HighCetaneDiesel",
-        "High Cetane Diesel"
+        "高十六烷柴油"
     ],
     [
         "Superfuel",
-        "Superfuel"
+        "超级燃料"
     ],
     [
         "RocketFuel",
-        "Rocket Fuel"
+        "火箭燃油"
     ],
     [
         "CopperGearbox",
-        "Copper Gearbox"
+        "铜齿轮箱"
     ],
     [
         "SteelGearbox",
-        "Steel Gearbox"
+        "钢齿轮箱"
     ],
     [
         "AluminiumGearbox",
-        "Aluminium Gearbox"
+        "铝齿轮箱"
     ],
     [
         "StainlessSteelGearbox",
-        "Stainless Steel Gearbox"
+        "不锈钢齿轮箱"
     ],
     [
         "TitaniumGearbox",
-        "Titanium Gearbox"
+        "钛齿轮箱"
     ],
     [
         "HardMetalGearbox",
-        "Hard Metal Gearbox"
+        "硬质齿轮箱"
     ],
     [
         "NeutroniumGearbox",
-        "Neutronium Gearbox"
+        "中子齿轮箱"
     ],
     [
         "AluminiumSolarCell",
-        "Aluminium Solar Cell"
+        "铝太阳能板"
     ],
     [
         "StainlessSteelSolarCell",
-        "Stainless Steel Solar Cell"
+        "不锈钢太阳能板"
     ],
     [
         "TitaniumSolarCell",
-        "Titanium Solar Cell"
+        "钛太阳能板"
     ],
     [
         "HardMetalSolarCell",
-        "Hard Metal Solar Cell"
+        "硬质太阳能板"
     ],
     [
         "NeutroniumSolarCell",
-        "Neutronium Solar Cell"
+        "中子太阳能板"
     ],
     [
         "Drain",
-        "Drain"
+        "排水管"
     ],
     [
         "Percent",
-        "Percent"
+        "百分比"
     ],
     [
         "BuilderTool",
-        "Builder Tool"
+        "建筑工具"
     ],
     [
         "ConstructionBlueprint",
-        "Construction Blueprint"
+        "建设蓝图"
     ],
     [
         "DeconstructionBlueprint",
-        "Deconstruction Blueprint"
+        "拆除蓝图"
     ],
     [
         "UpgradeBlueprint",
-        "Upgrade Blueprint"
+        "升级蓝图"
     ],
     [
         "ConstructionTool",
-        "Construction Tool"
+        "建设工具"
     ],
     [
         "DeconstructionTool",
-        "Deconstruction Tool"
+        "拆除工具"
     ],
     [
         "SteelLocomotive",
-        "Steel Locomotive"
+        "钢车头"
     ],
     [
         "SteelWagon",
-        "Steel Wagon"
+        "钢车厢"
     ],
     [
         "BasicBattery",
-        "Basic Battery"
+        "基础电池"
     ],
     [
         "AdvancedBattery",
-        "Advanced Battery"
+        "先进电池"
     ],
     [
         "SuperiorBattery",
-        "Superior Battery"
+        "卓越电池"
     ],
     [
         "UltimateBattery",
-        "Ultimate Battery"
+        "终极电池"
     ],
     [
         "Storage",
-        "Storage"
+        "存储"
     ],
     [
         "PrimitiveBattery",
-        "Primitive Battery"
+        "原始电池"
     ],
     [
         "CarbonPrecursor",
-        "Carbon Precursor"
+        "碳前体"
     ],
     [
         "CarbonFiber",
-        "Carbon Fiber"
+        "碳纤维"
     ],
     [
         "CarbonFiberSheet",
-        "Carbon Fiber Sheet"
+        "碳纤维片"
     ],
     [
         "IncreaseInventorySize",
-        "IncreaseInventorySize"
+        "增加库存规模"
     ],
     [
         "Salt",
-        "Salt"
+        "盐"
     ],
     [
         "LithiumPlate",
-        "Lithium Plate"
+        "锂板"
     ],
     [
         "AdvancedFrame",
-        "Advanced Frame"
+        "先进框架"
     ],
     [
         "LV",
@@ -1049,330 +1049,330 @@
     ],
     [
         "CopperSolarCell",
-        "Copper Solar Cell"
+        "铜太阳能板"
     ],
     [
         "GoldPlate",
-        "Gold Plate"
+        "金板"
     ],
     [
         "SilverWire",
-        "Silver Wire"
+        "银线"
     ],
     [
         "SilverPlate",
-        "Silver Plate"
+        "银板"
     ],
     [
         "SilverBlock",
-        "Silver Block"
+        "银块"
     ],
     [
         "SilverDust",
-        "Silver Dust"
+        "银粉"
     ],
     [
         "PlatinumWire",
-        "Platinum Wire"
+        "铂线"
     ],
     [
         "PlatinumPlate",
-        "Platinum Plate"
+        "铂板"
     ],
     [
         "PlatinumBlock",
-        "Platinum Block"
+        "铂块"
     ],
     [
         "PlatinumDust",
-        "Platinum Dust"
+        "铂粉"
     ],
     [
         "RhodiumFoil",
-        "Rhodium Foil"
+        "铑箔"
     ],
     [
         "RhodiumPlate",
-        "Rhodium Plate"
+        "铑板"
     ],
     [
         "RhodiumBlock",
-        "Rhodium Block"
+        "铑块"
     ],
     [
         "RhodiumDust",
-        "Rhodium Dust"
+        "铑粉"
     ],
     [
         "RhodiumReflector",
-        "Rhodium Reflector"
+        "铑反射器"
     ],
     [
         "PlatinumRhodiumSolution",
-        "Platinum-Rhodium Solution"
+        "铂铑溶液"
     ],
     [
         "AmmoniumChloride",
-        "Ammonium Chloride"
+        "氯化铵"
     ],
     [
         "RhodiumSolution",
-        "Rhodium Solution"
+        "铑溶液"
     ],
     [
         "IronPlate",
-        "Iron Plate"
+        "铁板"
     ],
     [
         "Triod",
-        "Triod"
+        "三极管"
     ],
     [
         "Resistor",
-        "Resistor"
+        "电阻"
     ],
     [
         "Transistor",
-        "Transistor"
+        "晶体管"
     ],
     [
         "SteelSolarCell",
-        "Steel Solar Cell"
+        "钢太阳能板"
     ],
     [
         "AluminiumFoil",
-        "Aluminium Foil"
+        "铝箔"
     ],
     [
         "HotNeutroniumPlate",
-        "Hot Neutronium Plate"
+        "热中子板"
     ],
     [
         "Stone",
-        "Stone"
+        "石头"
     ],
     [
         "ChromiumPlate",
-        "Chromium Plate"
+        "铬板"
     ],
     [
         "PlutoniumPlate",
-        "Plutonium Plate"
+        "钚板"
     ],
     [
         "UraniumPlate",
-        "Uranium-238 Plate"
+        "铀-238板"
     ],
     [
         "Uranium235Plate",
-        "Uranium-235 Plate"
+        "铀-235板"
     ],
     [
         "Uranium233Plate",
-        "Uranium-233 Plate"
+        "铀-233板"
     ],
     [
         "ThoriumPlate",
-        "Thorium Plate"
+        "钍板"
     ],
     [
         "HydrochloricAcid",
-        "Hydrochloric Acid"
+        "氢氯酸"
     ],
     [
         "HydrofluoricAcid",
-        "Hydrofluoric Acid"
+        "氢氟酸"
     ],
     [
         "AquaRegia",
-        "Aqua Regia"
+        "王水"
     ],
     [
         "Acetone",
-        "Acetone"
+        "丙酮"
     ],
     [
         "MethylIsobutylKetone",
-        "Methyl Isobutyl Ketone"
+        "甲基异丁基酮"
     ],
     [
         "MesitylOxide",
-        "Mesityl Oxide"
+        "异亚丙基丙酮"
     ],
     [
         "PolyethyleneSheet",
-        "Polyethylene Sheet"
+        "聚乙烯片"
     ],
     [
         "Fluorine",
-        "Fluorine"
+        "氟"
     ],
     [
         "Chloroform",
-        "Chloroform"
+        "氯仿"
     ],
     [
         "Chlorodifluoromethane",
-        "Chlorodifluoromethane"
+        "氯二氟甲烷"
     ],
     [
         "Tetrafluoroethylene",
-        "Tetrafluoroethylene"
+        "四氟乙烯"
     ],
     [
         "PolytetrafluoroethyleneSheet",
-        "Polytetrafluoroethylene Sheet"
+        "聚四氟乙烯片"
     ],
     [
         "RareEarthSludge",
-        "Rare Earth Sludge"
+        "稀土污泥"
     ],
     [
         "YttriumWire",
-        "Yttrium Wire"
+        "钇线"
     ],
     [
         "YttriumPlate",
-        "Yttrium Plate"
+        "钇板"
     ],
     [
         "YttriumBlock",
-        "Yttrium Block"
+        "钇块"
     ],
     [
         "NeodymiumPlate",
-        "Neodymium Plate"
+        "钕板"
     ],
     [
         "NeodymiumBlock",
-        "Neodymium Block"
+        "钕块"
     ],
     [
         "NeodymiumDust",
-        "Neodymium Dust"
+        "钕粉"
     ],
     [
         "NiobiumWire",
-        "Niobium Wire"
+        "铌线"
     ],
     [
         "NiobiumPlate",
-        "Niobium Plate"
+        "铌板"
     ],
     [
         "NiobiumBlock",
-        "Niobium Block"
+        "铌块"
     ],
     [
         "NiobiumDust",
-        "Niobium Dust"
+        "铌粉"
     ],
     [
         "MicaFlakes",
-        "Mica Flakes"
+        "云母片"
     ],
     [
         "TantalumFoil",
-        "Tantalum Foil"
+        "钽箔"
     ],
     [
         "TantalumWire",
-        "Tantalum Wire"
+        "钽线"
     ],
     [
         "TantalumPlate",
-        "Tantalum Plate"
+        "钽板"
     ],
     [
         "TantalumBlock",
-        "Tantalum Block"
+        "钽块"
     ],
     [
         "TantalumDust",
-        "Tantalum Dust"
+        "钽粉"
     ],
     [
         "TantalumSludge",
-        "Tantalum Sludge"
+        "钽污泥"
     ],
     [
         "TantalumSolution",
-        "Tantalum Solution"
+        "钽溶液"
     ],
     [
         "SiliconMonocrystal",
-        "Silicon Monocrystal"
+        "硅单晶"
     ],
     [
         "DopedSiliconMonocrystal",
-        "Doped Silicon Monocrystal"
+        "掺杂硅单晶"
     ],
     [
         "DopedSiliconWafer",
-        "Doped Silicon Wafer"
+        "掺杂硅晶片"
     ],
     [
         "Capacitor",
-        "Capacitor"
+        "电容"
     ],
     [
         "DecisionResonator",
-        "Decision Resonator"
+        "谐振器"
     ],
     [
         "BrainMatrix",
-        "Brain Matrix"
+        "大脑矩阵"
     ],
     [
         "AdvancedCatalyst",
-        "Advanced Catalyst Cell"
+        "先进催化剂单元"
     ],
     [
         "HotMercury",
-        "Hot Mercury"
+        "热水银"
     ],
     [
         "Graphene",
-        "Graphene"
+        "石墨烯"
     ],
     [
         "CompositeSolarCell",
-        "Composite Solar Cell"
+        "复合太阳能电池"
     ],
     [
         "CompositeParts",
-        "Composite Parts"
+        "复合组件"
     ],
     [
         "CompositeGearbox",
-        "Composite Gearbox"
+        "复合齿轮箱"
     ],
     [
         "CompositePlate",
-        "Composite Plate"
+        "复合板"
     ],
     [
         "CompositeBlock",
-        "Composite Block"
+        "复合块"
     ],
     [
         "CompositeDust",
-        "Composite Dust"
+        "复合粉"
     ],
     [
         "NeutroniumBlock",
-        "Neutronium Block"
+        "中子块"
     ],
     [
         "SwitchOn",
-        "Switch On"
+        "开启"
     ],
     [
         "HeatLoss",
-        "Heat Loss"
+        "热损"
     ],
     [
         "DecorationTool",
-        "Decoration Tool"
+        "装饰工具"
     ]
 ]
