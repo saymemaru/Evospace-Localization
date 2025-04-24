@@ -369,130 +369,130 @@
     ],
     [
         "Portal",
-        "Portal"
+        "传送门"
     ],
     [
         "LogicCircuit",
-        "Logic Circuit"
+        "逻辑芯片"
     ],
     [
         "LogicInterface",
-        "Logic Interface"
+        "逻辑接口"
     ],
     [
         "LogicController",
-        "Logic Controller"
+        "逻辑控制器"
     ],
     [
         "LogicDisplay",
-        "Logic Display"
+        "逻辑显示器"
     ],
     [
         "LogicWire",
-        "Logic Wire"
+        "逻辑线缆"
     ],
     [
         "Button",
-        "Button"
+        "按钮"
     ],
     [
         "ToggleButton",
-        "Toggle Button"
+        "切换按钮"
     ],
     [
         "OilCrackingTower",
-        "Oil Cracking Tower"
+        "石油裂解塔"
     ],
     [
         "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
+        "工业化学反应器"
     ],
     [
         "HandGenerator",
-        "HandGenerator"
+        "手摇发电机"
     ],
     [
         "KineticHeater",
-        "Kinetic Heater"
+        "动力加热器"
     ],
     [
         "IndustrialGenerator",
-        "Industrial Generator"
+        "工业发电机"
     ],
     [
         "OverflowPump",
-        "Overflow Pump"
+        "溢流泵"
     ],
     [
         "RailStation",
-        "Rail Station"
+        "火车站"
     ],
     [
         "BiElectricEngine",
-        "Bi-Directional Electric Engine"
+        "双向电动发动机"
     ],
     [
         "SmallSolarPanel",
-        "Small Solar Panel"
+        "小太阳能板"
     ],
     [
         "CableBundle",
-        "Cable Bundle"
+        "导线束"
     ],
     [
         "Rails",
-        "Rails"
+        "轨道"
     ],
     [
         "Destroyer",
-        "Destroyer"
+        "摧毁器"
     ],
     [
         "PlasmaPipe",
-        "Plasma Pipe"
+        "等离子管"
     ],
     [
         "TransformerLVMV",
-        "Transformer (LV -> MV)"
+        "变压器 (LV -> MV)"
     ],
     [
         "TransformerMVLV",
-        "Transformer (MV -> LV)"
+        "变压器 (MV -> LV)"
     ],
     [
         "CopperConnector",
-        "Copper Cable"
+        "铜导线"
     ],
     [
         "OFCCable",
-        "Oxygen Free Copper Cable"
+        "无氧铜导线"
     ],
     [
         "GCable",
-        "Gold Cable"
+        "金导线"
     ],
     [
         "CNCable",
-        "Copper Nickel Cable"
+        "白铜导线"
     ],
     [
         "YBCOCable",
-        "Yttrium Barium Copper Oxide Cable"
+        "氧化钇钡铜导线"
     ],
     [
         "PCable",
-        "Platinum Cable"
+        "铂导线"
     ],
     [
         "TNCable",
-        "Tantalum Niobium Cable"
+        "钽铌导线"
     ],
     [
         "ABCCOCable",
-        "Arsenic Barium Calcium Copper Oxide Cable"
+        "砷钡钙铜氧化物导线"
     ],
     [
         "SteamEngine",
-        "Steam Engine"
+        "蒸汽发动机"
     ]
 ]
