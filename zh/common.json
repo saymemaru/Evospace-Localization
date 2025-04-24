@@ -257,11 +257,11 @@
     ],
     [
         "Splitter",
-        "Can divite item flow into parts."
+        "把物品流分为多组."
     ],
     [
         "Sorter",
-        "Allowing to set white filter."
+        "允许设置白名单."
     ],
     [
         "machines_label_format",
@@ -269,58 +269,58 @@
     ],
     [
         "furnace_desc",
-        "Burning speed: x{0}"
+        "燃烧速度: x{0}"
     ],
     [
         "furnace_desc2",
-        "Heat output: x{0}"
+        "热量输出: x{0}"
     ],
     [
         "furnace_desc3",
-        "Kinetic output: x{0}"
+        "动能输出: x{0}"
     ],
     [
         "DataInput",
-        "Read data"
+        "读取数据"
     ],
     [
         "DataOutput",
-        "Write data"
+        "写入数据"
     ],
     [
         "DataConductor",
-        "Conducts data"
+        "传输数据"
     ],
     [
         "MachineColumn",
-        "Have more item output slots with more stacked layers"
+        "具有更多堆叠数量和物品输出槽"
     ],
     [
         "item_rack",
-        "Capacity: {0} items"
+        "储量: {0} 物品"
     ],
     [
         "Part",
-        "Part of devices"
+        "设备组件"
     ],
     [
         "ElectricConductorMV",
-        "<img id=\"Electricity\"></>Conducts electricity up to 10kV (MV)<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>最高传导 10kV (MV)<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricConductorHV",
-        "<img id=\"Electricity\"></>Conducts electricity< up to 100kV (HV)<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>最高传导 100kV (HV)<img id=\"Electricity2\"></>"
     ],
     [
         "Composite",
-        "Composite"
+        "复合"
     ],
     [
         "Alternative",
-        "Alternative"
+        "其他"
     ],
     [
         "tier",
-        "Tier: {0}"
+        "等级: {0}"
     ]
 ]
