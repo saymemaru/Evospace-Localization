@@ -1,222 +1,222 @@
 [
     [
         "ChapterCompleted",
-        "Chapter complete."
+        "章节完成。"
     ],
     [
         "Completed",
-        "Quest complete."
+        "任务完成。"
     ],
     [
         "Collect",
-        "Collect this item."
+        "收集物品。"
     ],
     [
         "Achievement",
-        "Achievement!"
+        "成就！"
     ],
     [
         "RefiningMachine",
-        "RefiningMachineDescription"
+        "精炼机器描述"
     ],
     [
         "FirstSteps",
-        "First Steps"
+        "第一步"
     ],
     [
         "RoadToSteel",
-        "Road to Steel"
+        "炼钢之旅"
     ],
     [
         "Farming",
-        "Farming"
+        "农业"
     ],
     [
         "Refining",
-        "Ore Refining"
+        "矿石精炼"
     ],
     [
         "Steam",
-        "Steam"
+        "蒸汽"
     ],
     [
         "RoadToAluminium",
-        "Road to Aluminium"
+        "炼铝之旅"
     ],
     [
         "RoadToSS",
-        "Road to Stainless Steel"
+        "炼不锈钢之旅"
     ],
     [
         "RoadToTitanium",
-        "Road to Titanium"
+        "炼钛之旅"
     ],
     [
         "RoadToHardMetal",
-        "Road to Hard Metal"
+        "炼硬质之旅"
     ],
     [
         "RoadToNeutronium",
-        "Road to Neutronium"
+        "炼中子之旅"
     ],
     [
         "Other",
-        "Other"
+        "其他"
     ],
     [
         "Decorative",
-        "Decorative"
+        "装饰"
     ],
     [
         "Woodwork",
-        "Woodwork"
+        "木工"
     ],
     [
         "FasterRefining",
-        "Faster Refining"
+        "更快精炼"
     ],
     [
         "Logistics",
-        "Logistics"
+        "后勤"
     ],
     [
         "FastTravel",
-        "Fast Travel"
+        "快速旅行"
     ],
     [
         "FasterSteel",
-        "Faster Steel"
+        "更快炼钢"
     ],
     [
         "AdvancedLogistics",
-        "Advanced Logistics"
+        "先进后勤"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "热传导"
     ],
     [
         "CoalPiece",
-        "CoalPieceDescription"
+        "煤块描述"
     ],
     [
         "CoalDust",
-        "CoalDustDescription"
+        "煤粉描述"
     ],
     [
         "CokePiece",
-        "CokePieceDescription"
+        "焦煤块描述"
     ],
     [
         "CokeDust",
-        "Faster way of producing a coke. Put a <item>Coal Dust</> into a <machine>Coke Oven</>."
+        "更快生产焦煤的方式。 把一个<item>Coal Dust</>放入<machine>Coke Oven</>。"
     ],
     [
         "HigherLevel",
-        "This is just improved version of machine. It can make complexer recipes without penalty and can use modules."
+        "这只是机器的改进版。 它可以制作更复杂的配方而不会受到惩罚，并且可以使用模块。"
     ],
     [
         "Jumppack",
-        "This is a really fast way to travel. You need to select it on the hotbar to use. Press jump to use."
+        "这是一种非常快捷的移动方式。 你需要在快捷栏上选中它才能使用。按下跳跃键即可使用。"
     ],
     [
         "Plate",
-        "While it is possible to create all machines directly from ingots - this is not the best way.\nIn a much more efficient way, it will create plates with the help of <machine>Automatic Hammer</>\nIt creates 1 plate of 1 ingot, while hands creates 1 plate of 2 ingots."
+        "虽然可以直接用锭制造所有机器 - 不是最佳方法。\n在更有效率的方式中， 可以在<machine>Automatic Hammer</>的帮助下生产板\n一个锭生产一个板， 而手工只能两个锭生产一个板。"
     ],
     [
         "Refined",
-        "You will receive 1.5 times more metal from ore by making this item."
+        "通过制造此物品， 你将从矿石中获得 1.5 倍以上的材料。"
     ],
     [
         "Furnace",
-        "Uses fuel to produce a <item>Heat</>. The Heat is fransferring into block on top of a furnace. Heat output is marked by flame icon."
+        "使用燃料来生产<item>Heat</>。 热量会传递到熔炉顶部的方块中。热量输出以火焰图标标记。"
     ],
     [
         "Dryer",
-        "Uses heat to make recipes. Usable to increase fuel efficiency by producing Coal Dust from a <item>Log</>/<item>Stick</>/<item>Sawdust</>."
+        "使用热量制作配方。 可从<item>Log</>/<item>Stick</>/<item>Sawdust</>生产煤粉来提高燃料效率。"
     ],
     [
         "Smelter",
-        "Uses heat to make ingots. Ingots are smelted from ore very slowly. It is much more efficient to refine an ore before smelting."
+        "使用热量生产锭。 矿石冶炼为锭十分缓慢。 在冶炼之前先提炼矿石效率更高。"
     ],
     [
         "AlloySmelter",
-        "AlloySmelterDescription"
+        "合金冶炼厂描述"
     ],
     [
         "CastIron",
-        "Used for advanced steel making process. Uses less coke in the process, and also has a much higher production rate.\nThe resulting cast iron must be melted in an <machine>Arc Furnace.</>"
+        "用于先进炼钢过程， 使用更少的焦煤， 并且产率更高\n生成的铸铁必须熔化于<machine>Arc Furnace.</>"
     ],
     [
         "CopperOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Copper Ore</> can be found at a coast. You can see a water from some hill."
+        "普通的矿石。 在所有群系中产生。 大量的<item>Copper Ore</>可以在海岸被发现。 你可以在山坡上看到一片水体."
     ],
     [
         "IronOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Iron Ore</> can be found in the swamp."
+        "普通的矿石。 在所有群系中产生。 大量的<item>Iron Ore</>可以在沼泽中被发现"
     ],
     [
         "Boiler",
-        "BoilerDescription"
+        "锅炉描述"
     ],
     [
         "Pump",
-        "Infinitely generates water."
+        "无限产生水。"
     ],
     [
         "Pipe",
-        "PipeDescription"
+        "管道描述"
     ],
     [
         "Bed",
-        "Right click on a Bed to update your Spawnpoint. You can travel to a Spawnpoint from the Pause Menu (Esc)."
+        "右键床更新重生点。 你可以从暂停菜单（Esc）传送到这。"
     ],
     [
         "Organics",
-        "Can be gathered from most of small plants in the world."
+        "可以从世界中的大多数小型植物收集。"
     ],
     [
         "BambooFarm",
-        "Growing bamboo sprout. Break with a <item>Multitool</> to harvest."
+        "生长的竹笋。 使用<item>Multitool</>来收集。"
     ],
     [
         "PumpkinFarm",
-        "Growing pumpkin. Break with a <item>Multitool</> to harvest."
+        "生长的南瓜。 使用<item>Multitool</>来收集。"
     ],
     [
         "AutomaticHammer",
-        "AutomaticHammerDescription"
+        "自动锤描述"
     ],
     [
         "Macerator",
-        "MaceratorDescription"
+        "粉碎机描述"
     ],
     [
         "OreWasher",
-        "OreWasherDescription"
+        "洗矿机描述"
     ],
     [
         "BlastFurnace",
-        "It has 2 inputs: one for <item>Iron Ingots</>, the other for a coke. To output a production use a <machine>Robot Arm</>."
+        "他有两个输入口：一个给<item>Iron Ingots</>， 另一个给焦煤。 使用<machine>Robot Arm</>输出产品。"
     ],
     [
         "CokeOven",
-        "Has input for a coal and output for a coke. Has fluid output for an <item>Ore Water</> marked with drop icon."
+        "包含煤炭输入口和焦煤输出口， 还有标有下拉图标的<item>Ore Water</>液体输出口。"
     ],
     [
         "RobotArm",
-        "Robot Arm"
+        "机械臂"
     ],
     [
         "FilteringRobotArm",
-        "FilteringRobotArm"
+        "过滤机械臂"
     ],
     [
         "Conveyor",
-        "Conveyor"
+        "传送带"
     ],
     [
         "ConveyorSplitter",
-        "Conveyor Splitter"
+        "传送带分离器"
     ]
 ]
