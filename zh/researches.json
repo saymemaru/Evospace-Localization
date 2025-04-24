@@ -197,42 +197,42 @@
     ],
     [
         "FuelChemistry",
-        "Fuel Chemistry"
+        "燃料化学"
     ],
     [
         "FuelChemistry2",
-        "Fuel Chemistry II"
+        "燃料化学 II"
     ],
     [
         "SulfurSynthesis",
-        "Sulfur Synthesis"
+        "硫磺合成"
     ],
     [
         "SulfuricAcidSynthesis",
-        "Sulfuric Acid Synthesis"
+        "硫酸合成"
     ],
     [
         "PreciseTemperaturePyrolysis",
-        "Precise Temperature Pyrolysis"
+        "精准温度热解"
     ],
     [
         "SteamPyrolysis",
-        "Steam Pyrolysis"
+        "蒸汽热解"
     ],
     [
         "KrollProcess",
-        "Kroll Process"
+        "克罗尔法钛精炼"
     ],
     [
         "AluminiumReduction",
-        "Aluminium Reduction"
+        "铝热法"
     ],
     [
         "AdvancedAlloys",
-        "Advanced Alloys"
+        "先进合金"
     ],
     [
         "LithiumBattery",
-        "Lithium Battery"
+        "锂电池"
     ]
 ]
